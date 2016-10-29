@@ -1,0 +1,144 @@
+/* CSS Document */
+*{
+	margin:0;
+	padding:0;}
+#big{
+	width:1347px;
+	height:4639px;
+	margin:0 auto;}
+#top{
+	width:1347px;
+	height:539px;}
+#t_top{
+	width:1347px;
+	height:100px;
+	background:url(../images/top.jpg) no-repeat;
+	background-size:1347px 100px;}
+#t_menu{
+	width:1347px;
+	height:43px;
+	
+	}
+#t_menu #menu1{
+	width:1347px;
+	height:22px;
+	background:url(../images/menu_02.jpg) no-repeat;
+	background-size:1347px 22px;}
+#t_menu #menu1 #fenlei{
+	margin-left:220px;
+	}
+#t_menu #menu1 #fenlei li{
+	text-align:center;
+	list-style-type:none;
+	float:left;
+	line-height:22px;
+	}
+#t_menu #menu1 #fenlei li a{
+	color:#FFF;
+	text-decoration:none;
+	padding-left:40px;
+	font-family:"微软雅黑";
+	font-size:14px;
+	}
+#t_menu #t_bottom{
+	background:url(../images/bg1_02.jpg) no-repeat;
+	background-size:1347px 418px;
+	width:1347px;
+	height:418px;}
+#menu2{
+	width:1347px;
+	height:21px;
+	
+	line-height:18px;} 
+#menu2 li,p{
+	float:left;
+	list-style-type:none;
+	font-size:12px;
+	}
+#menu2 li a,#resou{
+	padding-left:5px;
+	text-decoration:none;
+	color:#7D746D;
+	}
+#menu2 #resou{
+	font-weight:bold;}
+#menu2 li{
+	color:#7D746D;}
+
+#menu2 form{
+	float:right;
+	margin-right:120px;}
+#menu2 ul{
+	margin-left:605px;
+	color:#7D746D;}
+ #menu2 p{
+	margin-left:258px;
+	color:#7D746D;}
+#menu2 form #sk{
+	height:16px;
+	border:1px #7D746D solid;
+	}
+#menu2 form #ss{
+	border:1px #82716A solid;
+	background:#82716A;
+	height:18px;
+	color:#FFF;
+	
+	font-size:11px;
+	}
+#s{
+	margin-top:-17px;
+	margin-right:69px;}
+#top #t_center{
+	width:600px;
+	height:330px;
+	margin-left:350px;
+	}
+#top #t_center #mo{
+	width:300;
+	height:330px;}
+#t_center ul{
+	width:290px;
+	height:165px;
+	float:right;
+	margin-top:70px;
+	
+	}	
+#t_center ul img{
+	width:280;
+	height:40px;}
+#t_center ul li{
+	list-style-type:none;
+	}
+#t_center ul #fu{
+	color:#CF3569;
+	font-family:"微软雅黑";
+	letter-spacing:3px;
+	font-size:16px;}
+#t_center ul #ma{
+	color:#462A29;
+	font-family:"微软雅黑";
+	letter-spacing:3px;
+	font-size:17px;
+	margin-top:20px;}
+#t_center ul #qing{
+	color:#CF3569;
+	font-family:"微软雅黑";
+	letter-spacing:3px;
+	font-size:25px;
+	margin-top:5px;}
+#t_center ul #qinggou a{
+	color:#FFFFFF;
+	font-family:"微软雅黑";
+	letter-spacing:2px;
+	font-size:14px;
+	background:#CF3569;
+	position:relative;
+	top:-10px;
+	text-decoration:none;}
+#t_center ul #mian{
+	color:#462A29;
+	letter-spacing:3px;
+	margin-top:20px;
+	font-size:14px;
+	font-family:"微软雅黑";}
